@@ -45,5 +45,5 @@ N/A
 
 
     ```md
-    ![screenshot](assets/images/Horiseon0-Front-Page-Screenshot.png)
+    !screenshot(/assets/images/Horiseon-Front-Page-Screenshot.png)
     ```
