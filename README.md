@@ -44,6 +44,4 @@ https://www.smashingmagazine.com/2022/07/article-section-elements-accessibility/
 N/A
 
 
-    ```md
-    !screenshot(/assets/images/Horiseon-Front-Page-Screenshot.png)
-    ```
+![screenshot](/assets/images/Horiseon-Front-Page-Screenshot.png)
