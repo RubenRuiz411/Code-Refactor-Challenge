@@ -32,11 +32,16 @@ N/A
 
 Reference Links:
 
+https://stackoverflow.com/questions/4216035/css-background-image-alt-attribute - Found in here how to add Attribute to Background Image
+https://www.w3schools.com/html/html_accessibility.asp - Found in here that div tags are not semantic
+https://www.smashingmagazine.com/2022/07/article-section-elements-accessibility/#what-semantic-role-does-my-grouping-play - More infromation I used for Semantic 
+
+
 ## License
 
 N/A
 
 
     ```md
-    ![alt text]()
+    ![alt text](assets/images/Horiseon%20Front%20Page%20Screenshot.png)
     ```
