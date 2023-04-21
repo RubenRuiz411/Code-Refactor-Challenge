@@ -2,6 +2,7 @@
 
 ## Description
 
+
 Front page for Horiseon marketing refactored Horiseon Marketing company website. 
 
 - What was your motivation?
@@ -20,9 +21,29 @@ Refactoring the web page to add accesibility "alt" tags for search engine optimi
 
 Building HTML with semantic structure.
 
+## User Story
+
+AS A marketing agency
+I WANT a codebase that follows accessibility standards
+SO THAT our own site is optimized for search engines
+
+## Acceptance Criteria 
+
+GIVEN a webpage meets accessibility standards
+WHEN I view the source code
+THEN I find semantic HTML elements
+WHEN I view the structure of the HTML elements
+THEN I find that the elements follow a logical structure independent of styling and positioning
+WHEN I view the image elements
+THEN I find accessible alt attributes
+WHEN I view the heading attributes
+THEN they fall in sequential order
+WHEN I view the title element
+THEN I find a concise, descriptive title
+
 ## Installation
 
-N/A
+https://rubenruiz411.github.io/Code-Refactor-Challenge/
 
 ## Usage
 
@@ -44,8 +65,21 @@ https://www.smashingmagazine.com/2022/07/article-section-elements-accessibility/
 https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide 
 - Used to find out how to add a screenshot to a README.md
 
+https://shields.io/
+- Used to create Badge
+
+
+Received Assistance from "@AskBCS Learning Assistant" in Slack
+
+Collaborated with Hector Delgado on CSS section
+
+Received Assistance from Shawn Littrel on License
+
+
 
 ## License
+
+Copyright 2021 Ruben Ruiz 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:  
     
@@ -56,3 +90,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ## Screenshot
 
 ![screenshot](/assets/images/Horiseon-Front-Page-Screenshot.png)
+
+## Badges
+
+![badmath](https://img.shields.io/badge/Version--1-Ruben--Ruiz-brightgreen)
